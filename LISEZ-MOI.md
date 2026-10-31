@@ -1,4 +1,4 @@
-# TEAM QUEST v7 — Build better together! · BROT2YOU
+# TEAM QUEST v8 — Build better together! · BROT2YOU
 
 Appli de travail de groupe en anglais, DA briques : 6 rôles, 10 outils, avatars élèves, Mr Brot en coach, sons de briques.
 
@@ -28,3 +28,6 @@ Stockage local (clé teamquest-v3, compatible v3/v4 : les équipes existantes re
 - Correctif : depuis un espace « élève seul », boutons « Créer une équipe » et « Mes équipes » (le lien de création d'équipe ne fonctionnait pas).
 - Nouvelles planches : 15 avatars élèves (buste pour les petites vignettes, en pied pour l'accueil, la roue et « Mon espace »), Mr Brot en buste (bulles) et en pied (animations), tuiles-icônes des 6 rôles, badges, briques, boutons « C'est parti ! », « Choisir », « Modifier ».
 - Mr Brot animé dans le coin de l'écran : change de pose selon l'écran, réagit (cases cochées, badges, roue, prisme rouge « I'm coming! », chrono), donne un conseil si on le touche, médite après 90 s d'inactivité. Désactivable dans les réglages.
+
+## v8
+- Mr Brot en pied : seules les 10 poses complètes de la planche sont utilisées (les 5 poses de la 2e rangée sont coupées à la taille dans la planche source). Ces poses restent disponibles en buste dans les bulles et les cadres.
