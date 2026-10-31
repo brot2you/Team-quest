@@ -1,4 +1,4 @@
-# TEAM QUEST v6 — Build better together! · BROT2YOU
+# TEAM QUEST v7 — Build better together! · BROT2YOU
 
 Appli de travail de groupe en anglais, DA briques : 6 rôles, 10 outils, avatars élèves, Mr Brot en coach, sons de briques.
 
@@ -23,3 +23,8 @@ Stockage local (clé teamquest-v3, compatible v3/v4 : les équipes existantes re
 - Élève seul : prénom, équipe, avatar et rôle → espace « Hi Léa! » avec ses missions de rôle, ses phrases et SES outils (outils de son rôle + Keep Talking, My Voice, I'm Stuck, prisme, badges). Changement de rôle et liste de coéquipiers (pour la roue) dans « Mon profil ».
 - « Send my work » : l'élève télécharge un fichier ; le professeur l'importe dans les réglages de sa tablette. Le travail s'ajoute à l'équipe du même nom (créée si besoin) : élève, avatar, rôle, fiche de son rôle, My Voice → bilan complet.
 - Nouveau logo, détourage refait des objets et badges, espacements revus.
+
+## Nouveautés v7
+- Correctif : depuis un espace « élève seul », boutons « Créer une équipe » et « Mes équipes » (le lien de création d'équipe ne fonctionnait pas).
+- Nouvelles planches : 15 avatars élèves (buste pour les petites vignettes, en pied pour l'accueil, la roue et « Mon espace »), Mr Brot en buste (bulles) et en pied (animations), tuiles-icônes des 6 rôles, badges, briques, boutons « C'est parti ! », « Choisir », « Modifier ».
+- Mr Brot animé dans le coin de l'écran : change de pose selon l'écran, réagit (cases cochées, badges, roue, prisme rouge « I'm coming! », chrono), donne un conseil si on le touche, médite après 90 s d'inactivité. Désactivable dans les réglages.
