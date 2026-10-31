@@ -1,6 +1,6 @@
-# TEAM QUEST v3 — Build better together! · BROT2YOU
+# TEAM QUEST v4 (DA briques) — Build better together! · BROT2YOU
 
-Appli de travail de groupe en anglais : 6 rôles, 10 outils, illustrations tirées des fiches imprimables.
+Appli de travail de groupe en anglais : 6 rôles, 10 outils, personnages et objets détourés de la planche DA briques.
 
 ## Mise en ligne
 Déposer le contenu du dossier dans un dépôt GitHub (index.html + .nojekyll), puis Settings > Pages > branche main.
