@@ -1,4 +1,4 @@
-# TEAM QUEST v5 — Build better together! · BROT2YOU
+# TEAM QUEST v6 — Build better together! · BROT2YOU
 
 Appli de travail de groupe en anglais, DA briques : 6 rôles, 10 outils, avatars élèves, Mr Brot en coach, sons de briques.
 
@@ -17,3 +17,9 @@ Stockage local (clé teamquest-v3, compatible v3/v4 : les équipes existantes re
 - Pas de synchronisation entre tablettes (pas de serveur).
 - Voix anglaise selon le navigateur.
 - Les sons sont originaux : ce ne sont pas ceux du film LEGO, protégés par le droit d'auteur.
+
+## Nouveautés v6
+- Deux modes au lancement : « Team tablet » (une tablette par équipe) ou « My own tablet » (élève seul).
+- Élève seul : prénom, équipe, avatar et rôle → espace « Hi Léa! » avec ses missions de rôle, ses phrases et SES outils (outils de son rôle + Keep Talking, My Voice, I'm Stuck, prisme, badges). Changement de rôle et liste de coéquipiers (pour la roue) dans « Mon profil ».
+- « Send my work » : l'élève télécharge un fichier ; le professeur l'importe dans les réglages de sa tablette. Le travail s'ajoute à l'équipe du même nom (créée si besoin) : élève, avatar, rôle, fiche de son rôle, My Voice → bilan complet.
+- Nouveau logo, détourage refait des objets et badges, espacements revus.
